@@ -8,7 +8,7 @@ set -uo pipefail
 
 # ── Configuración (editable) ─────────────────────────────────
 MTA_SCREEN="mta"
-MTA_DIR="/opt/mtasa"
+MTA_DIR="/root/mta/Server"
 MTA_BIN="mta-server64"
 MTA_LOG="/var/log/mtapanel/server.log"
 PANEL_LOG="/var/log/mtapanel/panel.log"
